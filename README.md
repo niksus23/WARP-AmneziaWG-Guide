@@ -96,7 +96,7 @@ wgcf register
 ```
 и нажимаем enter (согласие с условиями cloudflare) также нужен доступ к серверам, так как выдаст ошибку при согласии
 
-[гайд по доступу к серверам cloudflare с помощью Zapret](потом)
+[гайд по доступу к серверам cloudflare с помощью Zapret](https://github.com/niksus23/-cloudflare-Zapret/tree/main)
 ---
 
 ## 7. Вписываем ключ
