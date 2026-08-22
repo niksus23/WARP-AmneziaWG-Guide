@@ -45,6 +45,8 @@ https://warp-gen.github.io/
 
 (или любые другие)
 
+Открываем AmneziaWG, жмём `+`, выбираем **«Импорт из файла»** и указываем путь к конфигу.
+
 ## 1. Качаем Cloudflare WARP
 
 Ссылка: https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/
