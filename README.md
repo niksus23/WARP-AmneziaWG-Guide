@@ -99,7 +99,6 @@ wgcf register
 и нажимаем enter (согласие с условиями cloudflare) также нужен доступ к серверам, так как выдаст ошибку при согласии
 
 [гайд по доступу к серверам cloudflare с помощью Zapret](https://github.com/niksus23/-cloudflare-Zapret/tree/main)
----
 
 ## 8. Вписываем ключ
 
@@ -149,7 +148,9 @@ engage.cloudflareclient.com:2408
 
 188.114.96.239:1387
 ```
-и тому подобные. [Гайд по поиску рабочих endpoint](https://github.com/niksus23/Endpoint-AmneziaWG)
+и тому подобные. 
+
+[Гайд по поиску рабочих endpoint](https://github.com/niksus23/Endpoint-AmneziaWG)
 
 ## 13. Добавляем обфускацию
 
@@ -174,7 +175,7 @@ H4 = 4
 ```
 **начальные пакеты для обфускации handshake**
 ```ini
-I1 = <b пример>
+I1 = <b 0x494...>
 ```
 **DNS и MTU**
 ```ini
