@@ -149,7 +149,7 @@ engage.cloudflareclient.com:2408
 ```
 и тому подобные. [Гайд по поиску рабочих endpoint](https://github.com/niksus23/Endpoint-AmneziaWG)
 
-## 12. Добавляем мусор чтобы обойти DPI
+## 12. Добавляем обфускацию
 
 В том же редакторе конфига находим секцию `[Interface]` и добавляем/проверяем:
 
