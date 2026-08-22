@@ -1,6 +1,3 @@
-[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" ></image-card>](LICENSE)
-[<image-card alt="GitHub stars" src="https://img.shields.io/github/stars/niksus23/WARP-AmneziaWG-Guide?style=social" ></image-card>](https://github.com/niksus23/WARP-AmneziaWG-Guide)
-
 # WARP-конфиг для AmneziaWG — своими руками
 
 Как сделать конфиг WARP для AmneziaWG, чтоб работал интернет (особенно иностранные сервисы).
