@@ -147,7 +147,7 @@ engage.cloudflareclient.com:2408
 
 188.114.96.239:1387
 ```
-и тому подобные. [Гайд по поиску рабочих endpoint](потом)
+и тому подобные. [Гайд по поиску рабочих endpoint](https://github.com/niksus23/Endpoint-AmneziaWG)
 
 ## 12. Добавляем мусор чтобы обойти DPI
 
